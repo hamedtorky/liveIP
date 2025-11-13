@@ -130,12 +130,12 @@ Provides:
 
 #    IP Address        Hostname                  MAC Address          Ping         SSH    Status    
 ------------------------------------------------------------------------------------------------------------
-1    192.168.1.1       iopsys.lan                58:00:32:c2:29:e4    ✓ 18ms       🔒 No  🟢 Online  
-2    192.168.1.165     node.lan                  d8:3a:dd:2e:e7:85    ✓ 13ms       🔓 Yes 🟢 Online  
-3    192.168.1.172     mac.lan                   4a:33:82:c2:94:af    ⚡0.07ms      🔒 No  🟢 Online  
-4    192.168.1.193     esp-733c0f.lan            08:f9:e0:73:3c:0f    ~ 61ms       🔒 No  🟢 Online  
-5    192.168.1.201     esp32s3-642b7c.lan        84:fc:e6:64:2b:7c    ⚠ 168ms      🔒 No  🟢 Online  
-🆕  6    192.168.1.225     iphone.lan                9a:47:a0:8d:31:8e    ⚡9.0ms       🔒 No  🟢 Online  
+1    192.168.1.1       iopsys.lan                58:xx:xx:c2:29:e4    ✓ 18ms       🔒 No  🟢 Online  
+2    192.168.1.165     node.lan                  d8:xx:dd:2e:e7:85    ✓ 13ms       🔓 Yes 🟢 Online  
+3    192.168.1.172     mac.lan                   4a:xx:82:c2:94:xx    ⚡0.07ms      🔒 No  🟢 Online  
+4    192.168.1.193     esp-733c0f.lan            xx:f9:e0:xx:3c:0f    ~ 61ms       🔒 No  🟢 Online  
+5    192.168.1.201     esp32s3-642b7c.lan        84:xx:e6:6x:2b:7c    ⚠ 168ms      🔒 No  🟢 Online  
+🆕  6    192.168.1.225     iphone.lan                9a:xx:a0:xx:31:8e    ⚡9.0ms       🔒 No  🟢 Online  
 ============================================================================================================
 
 💡 Press Ctrl+C to stop monitoring...
